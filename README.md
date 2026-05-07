@@ -2,7 +2,7 @@
 
 # LocalUp
 
-Nombre: Sofia Rodas Ochoa
+Nombre: Estefania Restrepo Ramirez
 
 LocalUp es uan plataforma web diseñada para conectar usuarios con eventos, \
 restaurantes y actividades en su ciudad mediante reseñas y recomendaciones presonalizadas.
